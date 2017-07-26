@@ -1,7 +1,7 @@
 # Water-them-Plants eminder
 Plant watering reminder
 
-##Tododo
+## Tododo
 - multiple (colored) LEDs for multiple plants
 - button to off the LED
 - offing only lit LED (error prompt?)
