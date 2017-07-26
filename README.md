@@ -1,4 +1,4 @@
-# Water-them-Plants eminder
+# Water-them-Flowers Reminder
 Plant watering reminder
 
 ## Tododo
